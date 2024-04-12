@@ -1,4 +1,4 @@
-## AIDS PRACTICALS 2023-2024
+## DSPL PRACTICALS 2023-2024
 
 # PROJECT TITLE
 Predicting the success of a marketing campaign for a Portuguese banking institution
